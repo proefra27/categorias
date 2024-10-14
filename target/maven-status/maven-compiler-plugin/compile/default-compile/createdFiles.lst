@@ -1,0 +1,9 @@
+com\upiiz\categorias\services\CategoriasService.class
+com\upiiz\categorias\services\MascotaService.class
+com\upiiz\categorias\controllers\CategoriasController.class
+com\upiiz\categorias\repository\MascotaRepository.class
+com\upiiz\categorias\models\Mascota.class
+com\upiiz\categorias\controllers\MascotaController.class
+com\upiiz\categorias\repository\CategoriasRepository.class
+com\upiiz\categorias\CategoriasApplication.class
+com\upiiz\categorias\models\Categoria.class
